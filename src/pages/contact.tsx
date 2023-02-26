@@ -48,26 +48,26 @@ export default function Contact() {
                     <h2 className="text-2xl mt-5">Banleiding</h2>
                     <table className="table-auto mt-10">
                         <tbody>
-                        <tr>
-                            <td className="px-4 py-2">Leeuwkes</td>
-                            <td className="px-4 py-2">Martijn Ceyssens</td>
-                            <td className="px-4 py-2 font-bold">0496 69 07 55</td>
-                        </tr>
-                        <tr className="bg-blue-100">
-                            <td className="px-4 py-2">Jong-Knapen</td>
-                            <td className="px-4 py-2">Stan Kwanten</td>
-                            <td className="px-4 py-2 font-bold">0477 67 09 29</td>
-                        </tr>
-                        <tr>
-                            <td className="px-4 py-2">Knapen</td>
-                            <td className="px-4 py-2">Matz Hilven</td>
-                            <td className="px-4 py-2 font-bold">0471 02 49 50</td>
-                        </tr>
-                        <tr className="bg-blue-100">
-                            <td className="px-4 py-2">Jong-Hernieuwers</td>
-                            <td className="px-4 py-2">Lowie Claes</td>
-                            <td className="px-4 py-2 font-bold">0499 30 92 42</td>
-                        </tr>
+                            <tr>
+                                <td className="px-4 py-2">Leeuwkes</td>
+                                <td className="px-4 py-2">Martijn Ceyssens</td>
+                                <td className="px-4 py-2 font-bold">0496 69 07 55</td>
+                            </tr>
+                            <tr className="bg-blue-100">
+                                <td className="px-4 py-2">Jong-Knapen</td>
+                                <td className="px-4 py-2">Stan Kwanten</td>
+                                <td className="px-4 py-2 font-bold">0477 67 09 29</td>
+                            </tr>
+                            <tr>
+                                <td className="px-4 py-2">Knapen</td>
+                                <td className="px-4 py-2">Matz Hilven</td>
+                                <td className="px-4 py-2 font-bold">0471 02 49 50</td>
+                            </tr>
+                            <tr className="bg-blue-100">
+                                <td className="px-4 py-2">Jong-Hernieuwers</td>
+                                <td className="px-4 py-2">Lowie Claes</td>
+                                <td className="px-4 py-2 font-bold">0499 30 92 42</td>
+                            </tr>
                         </tbody>
                     </table>
                 </div>
