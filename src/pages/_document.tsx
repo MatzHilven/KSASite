@@ -6,11 +6,11 @@ export default function Document() {
     return (
         <Html lang="en">
             <Head/>
-            <body className="flex flex-col h-screen">
-                <Navbar/>
-                <Main/>
-                <Footer/>
-                <NextScript/>
+            <body>
+            <Navbar/>
+            <Main/>
+            <NextScript/>
+            <Footer/>
             </body>
         </Html>
     )

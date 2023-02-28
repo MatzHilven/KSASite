@@ -1,8 +1,8 @@
 export default function Footer() {
     return (
-        <footer className="bg-gradient-to-br from-blue-900 via-blue-800 to-blue-700 mt-10 py-10 rounded-t-xl shadow-2xl">
+        <footer className="h-24 w-full border-t-4 rounded-t-3xl border-blue-900 bg-[#F0F8FFFF] shadow-t-lg mt-10 flex items-center justify-center">
             <ul className="flex justify-evenly">
-                <li className="text-gray-300">© 2023 ksabree.be</li>
+                <li className="text-blue-900">© 2023 ksabree.be</li>
             </ul>
         </footer>
     );
