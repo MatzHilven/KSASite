@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Navbar() {
     return (
         <nav
-            className="h-24 w-full border-b-4 rounded-b-3xl border-blue-900 bg-[#F0F8FFFF] shadow-xl mb-10 flex items-center justify-between">
+            className="fixed h-24 w-full border-b-4 rounded-b-3xl border-blue-900 bg-[#F0F8FFFF] backdrop-filter backdrop-blur-lg bg-opacity-30 shadow-xl mb-10 flex items-center justify-between">
             <Link href="/" className="">
                 <img src="images/logo.png" className="mr-3 ml-10 sm:h-9"
                      alt="Logo"/>

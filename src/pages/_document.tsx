@@ -8,6 +8,7 @@ export default function Document() {
             <Head/>
             <body>
             <Navbar/>
+            <div className="w-full h-32"></div>
             <Main/>
             <NextScript/>
             <Footer/>
